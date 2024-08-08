@@ -56,13 +56,6 @@ This connector supports the following `OrderType` constants:
 - `LIMIT_MAKER`
 - `MARKET`
 
-### Paper Trading
-
-Access the [Paper Trade](/global-configs/paper-trade/) version of this connector by running `connect tegro_paper_trade` instead of `connect tegro`.
-
-If this is not available by default, you can configure Hummingbot to add this paper trade exchange. See [Adding Exchanges](/global-configs/paper-trade/#adding-exchanges) for more information.
-
-
 ### Order Types
 
 This connector supports the following `OrderType` constants:
@@ -86,6 +79,6 @@ Afer you create an account and create the API keys, you can enter them by using 
 
 
 - **ID**: `tegro`
-- **Supported Intervals**: 1s | 1m | 3m | 5m | 15m | 30m | 1h | 2h | 4h | 6h | 8h | 12h | 1d | 3d | 1w | 1M
+- **Supported Intervals**:  5m | 15m | 1h | 4h | 1d | 1w 
 - **API Docs**: <https://tegro-docs.github.io/apidocs/futures/en/>
 - **[Github Folder](https:/[/](https://tegro.readme.io/reference/introduction-1))** 
