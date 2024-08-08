@@ -45,7 +45,7 @@ You are now connected to tegro
 
 - **ID**: `tegro`
 - **Connection Type**: WebSocket
-- **API Docs**: <https://tegro-docs.github.io/apidocs/spot/en/>
+- **API Docs**: <https://tegro.readme.io/reference/introduction-1>
 - **[Github Folder](https://github.com/toraverse/hummingbot/tree/development)** 
 
 ### Order Types
